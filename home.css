@@ -1,0 +1,43 @@
+body{
+  background-repeat: no-repeat;
+  background-image: url(https://wallpaperplay.com/walls/full/9/f/3/122755.jpg);
+  background-size: 1920px 938px;
+}
+
+h1{
+  text-align: center;
+  font-size: 50px;
+  font-family: 'Cantarell', sans-serif;
+  color: black;
+  border: 30px 25px solid black
+}
+
+h2{
+  text-align: center;
+  font-family: 'Cantarell', sans-serif;
+  color: black;
+}
+
+#go{
+  margin-right: 835px;
+  margin-left: 835px;
+}
+
+p{
+  text-align: center;
+  font-family: 'Cantarell', sans-serif;
+  color: black;
+  font-size: 25px;
+  background-color: white;
+}
+
+#port{
+  margin-right: 800px;
+  margin-left: 800px;
+}
+
+#about{
+  margin-right: 800px;
+  margin-left: 800px;
+}
+
